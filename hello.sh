@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello WOrld"
+echo "Hello DBS"
